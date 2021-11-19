@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b0497ab.chunk.css",
+    "main.js": "/static/js/main.ce6aa732.chunk.js",
+    "main.js.map": "/static/js/main.ce6aa732.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29ab09c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29ab09c2.js.map",
+    "static/js/2.ec85f745.chunk.js": "/static/js/2.ec85f745.chunk.js",
+    "static/js/2.ec85f745.chunk.js.map": "/static/js/2.ec85f745.chunk.js.map",
+    "static/js/3.44b77452.chunk.js": "/static/js/3.44b77452.chunk.js",
+    "static/js/3.44b77452.chunk.js.map": "/static/js/3.44b77452.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7b0497ab.chunk.css.map": "/static/css/main.7b0497ab.chunk.css.map",
+    "static/js/2.ec85f745.chunk.js.LICENSE.txt": "/static/js/2.ec85f745.chunk.js.LICENSE.txt",
+    "static/media/netflix_downloading.063578d5.jpg": "/static/media/netflix_downloading.063578d5.jpg",
+    "static/media/App.css": "/static/media/netflix_home_page_image.11da240b.jpg",
+    "static/media/netflix_kids.7e9c0c2f.png": "/static/media/netflix_kids.7e9c0c2f.png",
+    "static/media/netflix_tv_pic1.0049bc70.png": "/static/media/netflix_tv_pic1.0049bc70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ab09c2.js",
+    "static/js/2.ec85f745.chunk.js",
+    "static/css/main.7b0497ab.chunk.css",
+    "static/js/main.ce6aa732.chunk.js"
+  ]
+}
